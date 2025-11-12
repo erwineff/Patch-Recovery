@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       RECOVERY_URL:
-        description: 'RECOVERY URL'
+        description: 'https://drive.google.com/file/d/11Z0YEKuceiRQujBVoZ9yOoC9o_4m7Rfi/view?usp=sharing'
         required: true
         default: 'https://transfer.sh/(RECOMMENDED)'
 
